@@ -3,6 +3,7 @@ package PracticeDecember;
 public class AlgorithmsPractice {
     /**
      * This is to reverse a string
+     * This to check if this is reflecting in git 
      * @param name
      */
     public void reverseString(String name) {
